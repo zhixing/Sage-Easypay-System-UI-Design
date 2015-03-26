@@ -147,7 +147,7 @@ ol.linenums {
   width: 970px !important;
   }
 .demo-headline {
-  padding: 73px 0 60px;
+  padding: 53px 0 60px;
   text-align: center;
   }
 .demo-logo {
@@ -164,10 +164,10 @@ ol.linenums {
   background: url(../img/demo/logo-mask.png) center 0 no-repeat;
   background-size: 236px 181px;
   }
-.demo-logo small {
+small {
   display: block;
   padding-top: 5px;
-  font-size: 22px;
+  font-size: 15px;
   font-weight: 700;
   color: rgba(52, 73, 94, .3);
   letter-spacing: 0;
